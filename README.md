@@ -8,15 +8,15 @@ This project analyzes whether the chemical fertilizers distributed to farmers ar
 
 ## 📁 Project Structure
 
-Final-BigData-Project/
-│
-├── data_cleaning.py
-├── eda_analysis.py
-├── model_training.py
-├── synthetic_fertilizer_dataset.csv
-├── Fertilizer_Profitability_Dashboard.pbix
-├── presentation.pptx
-└── README.md
+Final-BigData-Project/  
+│  
+├── data_cleaning.py  
+├── eda_analysis.py  
+├── model_training.py  
+├── synthetic_fertilizer_dataset.csv  
+├── Fertilizer_Profitability_Dashboard.pbix  
+├── presentation.pptx  
+└── README.md  
 
 ---
 
@@ -36,7 +36,6 @@ Final-BigData-Project/
 
 4. **Power BI Dashboard**
    - Designed an interactive dashboard to visualize profitability trends
-     ![Power BI Dashboard](dashboard.png)
 
 ---
 
@@ -63,4 +62,8 @@ Final-BigData-Project/
 - Add geospatial visualizations
 
 ---
+🧾   
+Prince Rukesha - 26474  
+Big Data Project – 2025  
+Kigali, Rwanda  
 
