@@ -36,6 +36,7 @@ Final-BigData-Project/
 
 4. **Power BI Dashboard**
    - Designed an interactive dashboard to visualize profitability trends
+     ![Power BI Dashboard](dashboard.png)
 
 ---
 
